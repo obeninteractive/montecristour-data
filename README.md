@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/049aa64f-f6c2-4a9a-b8c3-add9cd4bef1e/deploy-status)](https://app.netlify.com/sites/montecristour-data/deploys)
+
 # gatsby-starter-blog
 Gatsby starter for creating a blog
 
