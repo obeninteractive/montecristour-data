@@ -8,8 +8,9 @@ sections:
   path: "./src/pages"
   label: Posts
   create: all
-  match: "**/*"
-  new_doc_ext: ".md"
+  match: "*"
+  exclude: ".js"
+  new_doc_ext: ''
 - type: document
   path: gatsby-config.js
   label: Options
